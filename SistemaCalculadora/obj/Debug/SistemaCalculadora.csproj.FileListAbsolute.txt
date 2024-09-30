@@ -1,0 +1,8 @@
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaCalculadora_Dev\SistemaCalculadora\bin\Debug\SistemaCalculadora.exe.config
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaCalculadora_Dev\SistemaCalculadora\bin\Debug\SistemaCalculadora.exe
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaCalculadora_Dev\SistemaCalculadora\bin\Debug\SistemaCalculadora.pdb
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaCalculadora_Dev\SistemaCalculadora\obj\Debug\SistemaCalculadora.csproj.AssemblyReference.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaCalculadora_Dev\SistemaCalculadora\obj\Debug\SistemaCalculadora.csproj.SuggestedBindingRedirects.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaCalculadora_Dev\SistemaCalculadora\obj\Debug\SistemaCalculadora.csproj.CoreCompileInputs.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaCalculadora_Dev\SistemaCalculadora\obj\Debug\SistemaCalculadora.exe
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaCalculadora_Dev\SistemaCalculadora\obj\Debug\SistemaCalculadora.pdb
